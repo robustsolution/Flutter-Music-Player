@@ -35,10 +35,6 @@ First Open Source Flutter based Beautiful Material Design Music Player(Online Ra
 
 * Note - This project also has a plugin to fetch songs and use audio player which can be used in any of your projects. Check the below link.
 
-### Flute Music Player Plugin
-
-[Plugin](https://github.com/iampawan/Flute-Music-Player)
-
 ## iOS
 
 ### Alert: iOS implementation
@@ -53,34 +49,8 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 2.  If its a feature, bugfix, or anything please only change code to what you specify.
 3.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
 4.  Pull requests _must_ be made against `develop` branch. Any other branch (unless specified by the maintainers) will get rejected.
-5.  Check for existing [issues](https://github.com/iampawan/Flutter-Music-Player/issues) first, before filing an issue.
-6.  Make sure you follow the set standard as all other projects in this repo do
-7.  Have fun!
-
-### Created & Maintained By
-
-[Pawan Kumar](https://github.com/iampawan) ([@imthepk](https://www.twitter.com/imthepk)) ([Youtube](https://www.youtube.com/c/MTechViral))
-([Insta](https://www.instagram.com/codepur_ka_superhero))
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](https://www.paypal.me/imthepk/)
-
-# License
-
-    Copyright 2018 Pawan Kumar
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+5.  Make sure you follow the set standard as all other projects in this repo do
+6.  Have fun!
 
 ## Getting Started
 
